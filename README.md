@@ -7,7 +7,7 @@ yields: 15 cookies
 1. 1/2 cup butter
 2. 1/4 cup granulated sugar
 3. 3/4 cup + 2 tbs all-purpose flour
-4. 2 tbs ground freeze dried raspberries
+4. 2 tbs ground freeze dried raspberries (sifted)
 5. 1/2 tsp salt
 
 ## Directions
