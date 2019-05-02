@@ -16,16 +16,3 @@ In development
 6. cut dough into rounds and place on parchment paper-lined baking tray
 7. Bake for 15 minutes
 8. Leave to cool on tray
-
-## Images
-
-### Raspberry powder
-![powder](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/raspberry-powder.jpg =250x)
-
-
-### dough
-![dough](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/dough.jpg  =250x)
-
-
-### cookies
-![cookies](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/cookies.jpg =250x)
