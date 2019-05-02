@@ -1,7 +1,8 @@
 # freeze-dried-raspberry-cookies
 In development
 
-33
+yields: 15 cookies 
+
 ## Ingredients
 1. 1/2 cup butter
 2. 1/4 cup granulated sugar
