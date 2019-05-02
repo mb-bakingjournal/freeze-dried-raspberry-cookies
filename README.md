@@ -20,12 +20,12 @@ In development
 ## Images
 
 ### Raspberry powder
-![powder](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/raspberry-powder.jpg | width=100)
+![powder](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/raspberry-powder.jpg =250x)
 
 
 ### dough
-![dough](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/dough.jpg | width=100)
+![dough](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/dough.jpg  =250x)
 
 
 ### cookies
-![cookies](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/cookies.jpg | width=100)
+![cookies](https://github.com/mb-bakingjournal/freeze-dried-raspberry-cookies/blob/master/images/proof-of-concept/cookies.jpg =250x)
