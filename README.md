@@ -13,7 +13,7 @@ yields: 15 cookies
 ## Directions
 1. preheat oven to 325° F
 2. cream together butter and sugar
-3. mix flour, sald and raspberry powder; set aside
+3. mix flour, salt and raspberry powder; set aside
 4. add dry ingredients to the butter and sugar and mix until dough comes together
 5. form dough into cylinder and refrigerate for 1 hour
 6. cut dough into rounds and place on parchment paper-lined baking tray
